@@ -4,8 +4,6 @@ Reproduction package for the paper **"Large Language Models as a Decision-making
 
 This repository contains the source code, test dataset, and prompts used to evaluate LLM-based Capability Check across five open-weight models and 454 test cases.
 
-**Repository DOI:** [10.5281/zenodo.19687682](https://doi.org/10.5281/zenodo.19687682)
-
 ---
 
 ## About the Experiment
